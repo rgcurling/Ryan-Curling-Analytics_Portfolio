@@ -83,6 +83,59 @@ Conclusion:
 
 This project gave me a deeper appreciation for the versatility of Monte Carlo simulations in addressing real-world problems. By creating and running simulations, I gained hands-on experience in modeling randomness and analyzing complex systems. I also sharpened my R programming skills and learned how to visualize and interpret simulation results effectively. The results from each scenario demonstrated the power of probabilistic thinking in making data-driven decisions and understanding stochastic processes.
 
+## Comparing Averages and Bootstrapping 
+
+Goal: To analyze statistical differences between groups and apply bootstrapping techniques to estimate confidence intervals for various parameters, enhancing the ability to make data-driven decisions.
+
+Description: This project focuses on comparing group averages, assessing statistical significance, and using bootstrapping to estimate confidence intervals for non-standard scenarios. Datasets include movie performance indicators, food ratings, product return rates, and NBA player statistics. Tasks involved implementing hypothesis tests, computing effect sizes, creating connecting letters reports, and programming bootstrap simulations in R.
+
+Skills:
+
+- Hypothesis Testing: Determining statistical significance of differences between groups (e.g., t-tests, ANOVA).
+  
+- Effect Size Measurement: Calculating Cohen’s d and interpreting the practical significance of differences.
+  
+- Bootstrapping: Implementing resampling methods to estimate confidence intervals for medians, correlations, and percentiles.
+  
+- Data Visualization: Using histograms, boxplots, and connecting letters reports to interpret results.
+  
+Technology:
+
+- R Packages: boot for bootstrap confidence intervals, multcomp for multiple comparisons, and visualization tools.
+  
+- Statistical Models: Linear regression and correlation analysis for evaluating relationships between variables.
+  
+- Custom Implementations: For-loop programming for percentile bootstraps and manual confidence interval estimation.
+  
+Results:
+
+- Drivers of Movie Success:
+    - ROI and Audience Ratings: Movies in cinematic universes had significantly higher ROI (+0.47 vs. -0.25; large effect size) and slightly          higher audience ratings (+0.68 vs. 0.66; small effect size).
+    - Runtime Impact: Audience ratings increased with runtime, with movies over 130 minutes receiving the highest scores.
+      
+- Food Ratings:
+  - No significant difference was found between recipes when using the correct test, as the confidence interval for the difference in ratings       contained zero.
+    
+- Product Return Rates:
+    - Statistically significant differences in return rates between some groups were identified, while others were "statistically tied."
+    - Connecting letters reports clarified which product categories were distinct in return rates.
+      
+- NBA Player Statistics:
+    - Bootstrapped 95% confidence intervals confirmed:
+    - Median points scored per game ranged from 6.8 to 7.4, making 7.3 a plausible value.
+    - True correlation between height and rebounds was between 0.42 and 0.48.
+    - The 75th percentile of shooting efficiency ranged from 0.588 to 0.595.
+      
+Conclusion: 
+
+This project demonstrated the importance of rigorous statistical analysis and bootstrapping in understanding data. By combining traditional hypothesis testing with resampling methods, I gained insights into differences between groups and uncertainty in parameter estimates. These techniques are critical for analyzing real-world datasets and providing actionable recommendations.
+
+
+
+
+
+
+
 
 
 
