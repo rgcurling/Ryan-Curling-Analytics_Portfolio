@@ -1,6 +1,6 @@
 # Data Analysis in R
 
-###Probability Models for Continuous Quantites
+### Probability Models for Continuous Quantites
 
 Goal: To create probability models for continuous quantities in various business cases.
 
