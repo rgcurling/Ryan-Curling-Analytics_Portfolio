@@ -5,8 +5,10 @@ Hello, I'm Ryan Curling, a data enthusiast with a strong foundation in business 
 
 I thrive in roles where I can use data to uncover insights and drive decision-making. Whether it's through creating automated reporting systems, developing predictive models, or optimizing operational processes, I am committed to delivering impactful results.
 
-## Table of Contents
-- [R Projects](https://github.com/rgcurling/Ryan-Curling-portfolio/tree/main/R)
+## Projects
+- [R](https://github.com/rgcurling/Ryan-Curling-portfolio/tree/main/R)
+- [Python](https://github.com/rgcurling/Ryan-Curling-portfolio/tree/main/R)
+
 
 
 ## Education
