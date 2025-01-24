@@ -1,4 +1,4 @@
-# Ryan Curling - Data Analyst Portfolio
+# Ryan Curling - Data Science Portfolio
 
 ## About
 Hello, I'm Ryan Curling, a data enthusiast with a strong foundation in business analytics and a passion for leveraging data to solve complex challenges. I hold a Bachelor of Science in Business Analytics from The University of Tennessee, Haslam School of Business, graduating Summa Cum Laude, and I am currently pursuing a Master of Science in Business Analytics at Indiana University's Kelley School of Business.
