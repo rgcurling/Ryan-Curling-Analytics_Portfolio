@@ -7,7 +7,7 @@ I thrive in roles where I can use data to uncover insights and drive decision-ma
 
 ## Projects
 - [R](https://github.com/rgcurling/Ryan-Curling-portfolio/tree/main/R)
-- [Python](https://github.com/rgcurling/Ryan-Curling-portfolio/tree/main/R)
+- [Python](https://github.com/rgcurling/Ryan-Curling-portfolio/tree/main/Python)
 
 
 
