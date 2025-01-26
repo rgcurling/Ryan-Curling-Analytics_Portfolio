@@ -9,6 +9,7 @@ I thrive in roles where I can use data to uncover insights and drive decision-ma
 - [R](https://github.com/rgcurling/Ryan-Curling-portfolio/tree/main/R)
 - [Python](https://github.com/rgcurling/Ryan-Curling-portfolio/tree/main/Python)
 - [SQL](https://github.com/rgcurling/Ryan-Curling-portfolio/tree/main/SQL)
+- [VBA](https://github.com/rgcurling/Ryan-Curling-portfolio/tree/main/VBA)
 
 
 
