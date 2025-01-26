@@ -31,3 +31,4 @@ Bachelor of Science - BS, Business Analytics,
 ## Contacts
 - LinkedIn: [@rgcurling](https://www.linkedin.com/in/ryan-curling-79813b1b8/)
 - Email: rgcurling@gmail.com
+- Phone: +1 (817)-889-6347
