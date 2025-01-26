@@ -25,8 +25,8 @@ Bachelor of Science - BS, Business Analytics,
 ## Certificates
 
 - Career Essentials in Data Analysis by Microsoft and LinkedIn (Issued July 2024)
-- [Google Analytics Individual Qualification] (https://skillshop.exceedlms.com/student/award/hTKNoTJdJNFtcXj9zxGkToTP)
-- [Google Ads Search Certification] (https://skillshop.exceedlms.com/profiles/37e5e53bd73b4c63ac228393c8415128)
+- [Google Analytics Individual Qualification](https://skillshop.exceedlms.com/student/award/hTKNoTJdJNFtcXj9zxGkToTP)
+- [Google Ads Search Certification](https://skillshop.exceedlms.com/profiles/37e5e53bd73b4c63ac228393c8415128)
 
 ## Contacts
 - LinkedIn: [@rgcurling](https://www.linkedin.com/in/ryan-curling-79813b1b8/)
