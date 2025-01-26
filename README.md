@@ -22,7 +22,7 @@ University of Tennessee, Haslam School of Business:
 Bachelor of Science - BS, Business Analytics, 
 2019 - 2023
 
-## Certificates
+## Certifications
 
 - [Career Essentials in Data Analysis by Microsoft and LinkedIn](https://www.linkedin.com/learning/certificates/40ecf623da96823448294b6d4b5a81de6186356c6bd9fd05ed3056e0bda3aa3c?trk=share_certificate)
 - [Google Analytics Individual Qualification](https://skillshop.exceedlms.com/student/award/hTKNoTJdJNFtcXj9zxGkToTP)
