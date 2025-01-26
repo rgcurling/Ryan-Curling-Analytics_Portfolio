@@ -24,6 +24,7 @@ Bachelor of Science - BS, Business Analytics,
 
 ## Certificates
 
+- Career Essentials in Data Analysis by Microsoft and LinkedIn (Issued July 2024)
 
 ## Contacts
 - LinkedIn: [@rgcurling](https://www.linkedin.com/in/ryan-curling-79813b1b8/)
