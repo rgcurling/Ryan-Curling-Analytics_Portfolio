@@ -12,3 +12,17 @@ Skills: VBA programming, email automation, process optimization, Excel integrati
 Technology: VBA, Microsoft Excel, Microsoft Outlook.
 
 Results: The automation reduced the email creation time from 10–15 minutes to under 1 minute per shift, enhanced the consistency of email formats, and ensured ease of use for managers. The project demonstrated the value of automation in streamlining repetitive tasks, improving communication quality, and saving time in operational processes.
+
+## KPI Shift Comparison Web Scraping Project
+
+Description:
+This project addressed a significant gap in Amazon's operational data visibility by creating an automation system for shift-specific inbound Key Performance Indicators (KPIs). Using Excel VBA macros, the system pulled data from various internal portals, consolidated it into structured Excel reports, and enabled shift-level performance monitoring. Initially implemented at a single fulfillment site, it was later scaled regionally to multiple centers.
+
+Skills:
+Excel VBA, web scraping, data automation, KPI analysis, operational reporting, dynamic URL construction, authentication integration, modular scripting, scalability, error handling.
+
+Technology:
+Microsoft Excel VBA, WinHTTP Library, APIs, Midway authentication.
+
+Results:
+The project improved data granularity by enabling shift-level KPI visibility, empowering managers to identify underperforming shifts and take timely corrective actions. It enhanced decision-making, reduced manual data processing, and ensured scalability across regional centers. Robust error handling and modular design allowed seamless integration of new sites and metrics. Key metrics like units processed and time worked were delivered efficiently, enabling better operational accountability and performance monitoring. Lessons learned included the importance of stakeholder collaboration, comprehensive documentation, and rigorous testing.
