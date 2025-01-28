@@ -1,6 +1,6 @@
 # VBA Projects
 
-## Automated Shift-Wash Emails Macro
+## Automated Shift-Wash Email Macro
 
 Goal: To automate the creation and sending of shift-wash emails for Amazon operations to save time, improve consistency, and standardize communication.
 
