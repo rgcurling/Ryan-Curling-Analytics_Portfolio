@@ -1,4 +1,4 @@
-### VBA Projects
+# VBA Projects
 
 ## Automated Shift-Wash Emails Macro
 
